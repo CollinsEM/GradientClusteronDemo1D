@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+    color: white;
+    overflow: hidden;
+}
+div {
+    text-align: center;
+}
+span {
+    text-align: center;
+}
+#sequence {
+    text-color: red;
+}
+.sensor::before {
+    margin: 5px;
+}
+canvas {
+    width: 100%;
+}
