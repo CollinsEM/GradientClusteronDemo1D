@@ -38,6 +38,9 @@ current state. Green for successful detection of the target pattern
 (false-positive), and cyan for failure to detect the target pattern
 (false-negative).
 
-The learning rules for the synaptic weights and positions follows that
+The learning rules for the synaptic weights and positions follow that
 described in <a href="https://doi.org/10.1371/journal.pcbi.1009015">
 this paper</a> by Toviah Moldwin, et.al.
+
+TODO: Add GUI elements that would allow the user to manipulate some of
+the more interesting parameters.
